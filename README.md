@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Murilo</h1>
 <h3 align="center">A beginner Front-End student</h3>
 
-- 👯 Nowadays, i'm working in this project [Sistema Controle de Estoque](https://muriloluix.github.io/UniversityEducation/)
+- 👯 Nowadays, i'm working in this project [University Education](https://muriloluix.github.io/UniversityEducation/)
 
 - 🌱 I'm practing this new languages **JavaScript, React, Bootstrap, Sass and others**
 
