@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Murilo</h1>
 <h3 align="center">A beginner Front-End student</h3>
 
-- This is my **new** portfolio [Portfolio] **(https://muriloluix.github.io/Portfolio/)**
+- 😎 This is my **new** portfolio [Portfolio](https://muriloluix.github.io/Portfolio/)
 
 - 👯 Nowadays, i'm working in this project [University Education](https://muriloluix.github.io/UniversityEducation/)
 
