@@ -3,7 +3,7 @@
 
 - 😎 This is my **NEW** Portfolio! [Portfolio](https://muriloluix.github.io/Portfolio/)
 
-- 👯 Nowadays, i'm working in this project [University Education](https://muriloluix.github.io/UniversityEducation/)
+- 👯 Nowadays, i'm working in this project [Agulha Mágica](https://muriloluix.github.io/AgulhaMagica/)
 
 - 🌱 I'm practing this new languages **JavaScript, React, Bootstrap, Sass and others**
 
