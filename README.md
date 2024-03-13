@@ -3,7 +3,7 @@
 
 - 😎 This is my **NEW** Portfolio! [Portfolio](https://muriloluix.github.io/Portfolio/)
 
-- 👯 Nowadays, i'm working in this project [Echo](https://github.com/muriloLuix/Echo)
+- 👯 Nowadays, i'm working in this project [System About Sells](https://muriloluix.github.io/System-About-Sells/)
 
 - 🌱 I'm practing this new languages **JavaScript, React, Bootstrap, Sass and others**
 
