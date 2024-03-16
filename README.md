@@ -4,7 +4,10 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.instagram.com/izmurilo_cwb/](https://www.linkedin.com/in/murilo-luiz-jaboinski-246096229/))
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=muriloluix&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloluix&layout=donut&theme=dracula)](https://github.com/muriloluix/github-readme-stats)
+<a href="https://github.com/muriloluix/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloluix&layout=donut&theme=dracula" height="196px">
+</a>
+
 
 ## Tecnologias que eu uso no meu dia
 
