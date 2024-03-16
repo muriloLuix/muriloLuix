@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, My name is Murilo</h1>
-<h3 align="center">A beginner Front-End student</h3>
+## Olá! Eu sou o Murilo Luiz 🖐️
 
-- 😎 This is my **NEW** Portfolio! [Portfolio](https://muriloluix.github.io/Portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/izmurilo_cwb/)
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.instagram.com/izmurilo_cwb/](https://www.linkedin.com/in/murilo-luiz-jaboinski-246096229/))
 
-- 👯 Nowadays, i'm working in this project [System About Sells](https://muriloluix.github.io/System-About-Sells/)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=muriloluix&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloluix&layout=donut&theme=dracula)](https://github.com/muriloluix/github-readme-stats)
 
-- 🌱 I'm practing this new languages **JavaScript, React, Bootstrap, Sass and others**
+## Tecnologias que eu uso no meu dia
 
-- 📫 Contact **muriloluiz654@gmail.com**
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div><br/>
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a target="_blank" href="https://www.linkedin.com/in/murilo-luiz-jaboinski-246096229/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilo luiz jaboinski" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools :</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?muriloluix=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
