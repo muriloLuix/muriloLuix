@@ -39,5 +39,13 @@
 <h1 align="center">⭐ GitHub Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muriloLuix&show_icons=true" alt="GitHub Stats"/>
+    <a href="https://github.com/muriloLuix">
+        <img src="https://github-readme-stats.vercel.app/api?username=muriloLuix&theme=dark" alt="muriloLuix's GitHub Stats" style="margin-right: 10px;">
+    </a>
+<a href="https://github.com/muriloLuix">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloLuix&layout=compact&theme=dark" alt="muriloLuix's Top Languages" style="margin-left: 10px; width: 355px;">
+</a>
+
 </div>
+
+
