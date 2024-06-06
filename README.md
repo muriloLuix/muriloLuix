@@ -1,12 +1,12 @@
 <h1 align="center">💜 Olá, meu nome é Murilo!</h1>
 
-<p align="left">🔭 Atualmente, estou trabalho nesse projeto Re.Nome Store, venha acompanha o desenvolvimento desse e-commerce!</p>
+<p align="center">🔭 Atualmente, estou trabalho nesse projeto Re.Nome Store, venha acompanha o desenvolvimento desse e-commerce!</p>
 
-<p align="left">
+<p align="center">
   💌 Vamos Conversar? ⤵️
 </p>
 
-<p align="left">
+<p align="center">
   <a href="#" title="Gmail">
 <a href="mailto:muriloluiz654@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
