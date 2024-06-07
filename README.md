@@ -1,7 +1,7 @@
 <h1 align="center">💜 Olá, meu nome é Murilo!</h1>
 
 <p align="center">
-  🔭 Atualmente, estou trabalho nesse projeto 
+  🔭 Atualmente, estou trabalhando nesse projeto 
   <a href="https://github.com/muriloLuix/Re.nomeStore" target="_blank">Re.Nome Store</a>, venha acompanhar o desenvolvimento desse e-commerce!
 </p>
 
