@@ -2,7 +2,7 @@
 
 <p align="center">
   🔭 Atualmente, estou trabalhando nesse projeto 
-  <a href="https://github.com/muriloLuix/Re.nomeStore" target="_blank">Re.Nome Store</a>, venha acompanhar o desenvolvimento desse e-commerce!
+  <a href="https://github.com/muriloLuix/AbadeSuger" target="_blank">Abade Suger</a>, venha acompanhar o desenvolvimento desse e-commerce!
 </p>
 
 
